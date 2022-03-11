@@ -1,0 +1,4 @@
+gcc -o lockers1 LockersTest1.c LockersLib.c -I. -pthread
+gcc -o lockers2 LockersTest2.c LockersLib.c -I. -pthread
+gcc -o lockers3 LockersTest3.c LockersLib.c -I. -pthread
+
